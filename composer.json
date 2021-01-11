@@ -1,0 +1,19 @@
+{
+    "name": "decadentorange/pay",
+    "description": "the most elegant payment extension package and does not depend on any framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "decadentOrange",
+            "email": "1194415474@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "decadentorange\\pay" : "src"
+        }
+    }
+}
